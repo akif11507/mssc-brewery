@@ -1,5 +1,6 @@
-package guru.springframework.msscbrewery.services;
+package guru.springframework.msscbrewery.services.impl;
 
+import guru.springframework.msscbrewery.services.BeerService;
 import guru.springframework.msscbrewery.web.model.BeerDto;
 import org.springframework.stereotype.Service;
 
